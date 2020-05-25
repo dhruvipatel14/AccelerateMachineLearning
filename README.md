@@ -13,4 +13,4 @@ Various modules are:
 3.XGBoost,Rapids \
 4.Cloud data and AWS \
 5.Auto ML \
-6.Model Deplyoment 
+6.Model Deployment
